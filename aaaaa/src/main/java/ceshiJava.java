@@ -1,4 +1,6 @@
 public class ceshiJava {
-  
-  hahahahahhaa
+    public static void main(String[] args) {
+        System.out.println(" sout hahahahahhaa");
+    }
+
 }
